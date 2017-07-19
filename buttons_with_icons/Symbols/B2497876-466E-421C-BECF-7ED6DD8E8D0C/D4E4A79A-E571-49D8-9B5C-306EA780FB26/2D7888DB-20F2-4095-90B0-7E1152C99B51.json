@@ -1,0 +1,98 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "2D7888DB-20F2-4095-90B0-7E1152C99B51",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 112,
+    "width": 414,
+    "x": 0,
+    "y": 24
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "molecules/toolbar",
+  "nameIsFixed": false,
+  "originalObjectID": "2D7888DB-20F2-4095-90B0-7E1152C99B51",
+  "overrides": {
+    "177BD78F-FA7D-470B-8347-22194552BEC6": "Home",
+    "17CF8174-9030-4303-845B-683D39584A7C": " ",
+    "2C87B0CC-F9F0-41E8-9DF2-CA7C4FE2A78A": " ",
+    "52154ED6-D07F-40FF-8504-ECFC84ADEED2": {
+      "symbolID": "B40C30E0-715D-4C29-9130-992333962901"
+    },
+    "52E45CAC-3339-4A9D-8C70-FC00D67AE914": " ",
+    "617337E6-886B-42F8-8738-2EA5B96D660E": {
+      "symbolID": ""
+    },
+    "8E6AC3FE-3559-4F10-BD6A-88416B3C8A13": {
+      "symbolID": "6E122AF5-A53E-438B-8F10-6E87A251D9AE"
+    },
+    "9E6C3E5E-541E-4F53-98B7-FF00A336108D": {
+      "symbolID": ""
+    },
+    "BAA259A4-6593-48B3-A846-D08DEE9BC86A": {
+      "symbolID": ""
+    },
+    "D2B1A0EE-AAFF-4D4A-8CDB-03516DBA7088": {
+      "symbolID": ""
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 3,
+        "color": {
+          "_class": "color",
+          "alpha": 0.34,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 1,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "symbolID": "F9475A8C-CCA5-4644-80EC-9481CE7AFA66",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
