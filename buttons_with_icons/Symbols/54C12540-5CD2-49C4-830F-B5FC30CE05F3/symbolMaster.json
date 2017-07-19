@@ -1,5 +1,5 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -7,7 +7,8 @@
     "green": 1,
     "red": 1
   },
-  "do_objectID": "1D3AE3F7-A922-48D8-84CE-4735DADB4BE0",
+  "changeIdentifier": 5,
+  "do_objectID": "54C12540-5CD2-49C4-830F-B5FC30CE05F3",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -20,10 +21,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 667,
-    "width": 375,
-    "x": 1074,
-    "y": 515
+    "height": 36,
+    "width": 150,
+    "x": 1593,
+    "y": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -34,6 +35,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -43,11 +45,12 @@
   "layers": [
     {
       "class": "group",
-      "id": "2CEBAAB8-7CA5-4542-A59A-CF645A694CE0"
+      "id": "663DEC2C-AD2A-4EE9-8A9A-F1974681103D"
     }
   ],
-  "name": "iPhone 7",
+  "name": "Button/confirm",
   "nameIsFixed": false,
+  "originalObjectID": "54C12540-5CD2-49C4-830F-B5FC30CE05F3",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -59,6 +62,7 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
+  "symbolID": "7A2223CD-0E00-478D-8DE3-45CEEF10F20C",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

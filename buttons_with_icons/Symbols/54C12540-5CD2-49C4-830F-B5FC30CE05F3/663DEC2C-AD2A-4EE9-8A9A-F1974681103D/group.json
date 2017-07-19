@@ -1,6 +1,6 @@
 {
   "_class": "group",
-  "do_objectID": "2CEBAAB8-7CA5-4542-A59A-CF645A694CE0",
+  "do_objectID": "663DEC2C-AD2A-4EE9-8A9A-F1974681103D",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 119,
-    "width": 325,
-    "x": 25,
-    "y": 185
+    "height": 36,
+    "width": 150,
+    "x": 0,
+    "y": 0
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -26,16 +26,17 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "A46F3A0F-18DC-46E8-A837-F04A52A28A82"
+      "class": "shapeGroup",
+      "id": "A60EEE13-2D18-4D10-8174-69BFD97C679E"
     },
     {
-      "class": "symbolInstance",
-      "id": "2805B843-B26D-489B-B97D-579F57866240"
+      "class": "text",
+      "id": "3948D5D7-F671-43D3-AECF-E43DA7FA7B99"
     }
   ],
-  "name": "Group",
-  "nameIsFixed": false,
+  "name": "Button/confirm",
+  "nameIsFixed": true,
+  "originalObjectID": "663DEC2C-AD2A-4EE9-8A9A-F1974681103D",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
